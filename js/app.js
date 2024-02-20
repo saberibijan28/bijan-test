@@ -110,3 +110,8 @@ inputElem.addEventListener('keydown' , function(event){
         addNewTodo()
     }
 })
+
+
+const testFunc = ()=>{
+    return true
+}
